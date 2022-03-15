@@ -43,6 +43,7 @@ In this laboratory exercise, you will study the differences between a statically
        q_{n+1}^T =& \\
    \end{align*}
    -->
+![image](https://user-images.githubusercontent.com/99491847/158459450-7bccfbca-57f4-4e35-af59-f54c68ccd3ab.png)
 
    **D-type FF**
    | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
